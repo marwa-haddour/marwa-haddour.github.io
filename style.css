@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+.titel {
+    color: aqua;
+    text-align: center;
+    font-size: 100px;
+}
+
+.text {
+    color: aquamarine;
+    text-align: center;
+}
+
+.bodyimage {
+    width: 500px;
+    height: auto;
+}
+
+.bodyimage2 {
+    width: 300px;
+    height: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.bodyimage3 {
+width: 500px;
+height: auto;
+}
